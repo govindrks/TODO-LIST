@@ -1,0 +1,69 @@
+body {
+  background-color: aqua;
+}
+.app {
+  text-align: center;
+}
+.container{
+  background-color: rgb(12, 78, 232);
+  justify-content: center;
+  width: 50%;
+  margin-left: 26%;
+  margin-top: 5%;
+  text-align: center;
+  padding: 20px;
+}
+input[type=text], select {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 30px 0;
+  display: inline-block;
+  border: 1px solid #643737;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button {
+  width: 15%;
+  background-color: #4CAF50;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: mone;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+button:hover {
+  background-color: #4CAF50;
+}
+.header {
+  width: 100%;
+  padding: 12px 20px;
+  color: white;
+  font-size: 50px;
+  font-family: serif;
+}
+.List-heading {
+  color: rgb(185, 166, 142);
+  font-size: 50px;
+  font-family: serif;
+  text-align: left;
+  background-color: cadetblue;
+  width: 60%;
+}
+.listData {
+  color: black;
+  font-size: 20px;
+  background-color: aqua;
+  text-align: left;
+  padding-left: 30px;
+  width: 53%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  border-radius: 10px;
+}
+.btn-position {
+  position: relative;
+  left: 14%;
+  top: -58px;
+}
